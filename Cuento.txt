@@ -5,5 +5,7 @@ Es el año 2040, han pasado 10 años desde que la primera misión tripulada a ma
 Después de quince meses de exploración, análisis de muestras, escritura de bitácoras, en otras palabras realizando ciencia, 3 de los 7 astronautas condujeron el rover de búsqueda hacia el punto más profundo del cráter Gale procurando mantener la comunicación con los otros 4 tripulantes que se quedaron dentro del módulo espacial "Habitat" en donde 
 contaban con los recursos necesarios para subsistir y realizar sus investigaciones asignadas a lo largo de la misión. 
 
--Dra. Ross a rover, comprobación de comunicación.
--Rover a Habitat, aquí astronauta Juan Aguirre, todo va muy bien por ahora, la escotilla del traje está sellada y mantiene la presión. 
+-"Dra. Ross a rover, comprobación de comunicación."
+-"Rover a Habitat, aquí astronauta Juan Aguirre, todo va muy bien por ahora, la escotilla del traje está sellada y mantiene la presión."
+-"Aquí astronauta Ashley Litko, estamos igual, la misión va excelente."
+-"Entendido rover, cambio y fuera."    
